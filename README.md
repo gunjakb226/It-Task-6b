@@ -1,1 +1,1 @@
-# It task 6b
+# It task 6
